@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://idekaifi.github.io/DsJ/sitemap_index.txt
+Sitemap: https://idekaifi.github.io/EjU/sitemap_index.txt
+Sitemap: https://idekaifi.github.io/LiB/sitemap_index.txt
+Sitemap: https://idekaifi.github.io/Mjx/sitemap_index.txt
